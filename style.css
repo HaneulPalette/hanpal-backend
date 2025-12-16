@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f4f2;
+  text-align: center;
+}
+
+.container {
+  background: white;
+  max-width: 420px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.logo {
+  width: 120px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 10px 20px;
+  border: none;
+  background: #d2b48c;
+  cursor: pointer;
+}
+
+.qr {
+  width: 200px;
+}
+
+.hidden {
+  display: none;
+}
